@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Malware](README.md)
+* [Základy](zaklady.md)
+* [AOC 2024](aoc-2024/README.md)
+  * [Day 11 - WiFi attacks](aoc-2024/day-11-wifi-attacks.md)
+  * [Day 12 - Race Conditions vuln](aoc-2024/day-12-race-conditions-vuln.md)
+  * [Day 13 - Web Sockets](aoc-2024/day-13-web-sockets.md)
+  * [Day 14 - Self-Signed certificate](aoc-2024/day-14-self-signed-certificate.md)
+  * [Day 15 - Active Directory](aoc-2024/day-15-active-directory.md)
+  * [Day 16 - Azure](aoc-2024/day-16-azure.md)
+  * [Day 17 - Logs](aoc-2024/day-17-logs.md)
+  * [Day 18 - AI (prompt inj)](aoc-2024/day-18-ai-prompt-inj.md)
+  * [Day 19 - Game hacking](aoc-2024/day-19-game-hacking.md)
+  * [Day 20 - C2 (wireshark)](aoc-2024/day-20-c2-wireshark.md)
+  * [Day 21 - Reverse Engineering](aoc-2024/day-21-reverse-engineering.md)
+  * [Day 22 - DFIR kubernetes](aoc-2024/day-22-dfir-kubernetes.md)
